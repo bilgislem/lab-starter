@@ -32,7 +32,7 @@ steps:
   - type: gate
                   # some actions require additional options, those should appear below `type:`
                   # you can execute multiple actions in the `before` block
-                  #
+    right: Add name to README
   # - type:
   #   option:
   #
